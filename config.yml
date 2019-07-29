@@ -1,0 +1,386 @@
+biomes:
+  biomesList:
+    ocean:
+      friendlyName: 'Ocean'
+      description: '&fJust keep &bswimming&f...'
+      icon: 'water_bucket'
+      islandLevel: 0
+      cost: 50
+    plains:
+      friendlyName: 'Plains'
+      description: '&aPlains&f… What did you expect?'
+      icon: 'grass_block'
+      islandLevel: 0
+      cost: 50
+    desert:
+      friendlyName: 'Desert'
+      description: '&eHot&f stuff.'
+      icon: 'cactus'
+      islandLevel: 0
+      cost: 50
+    mountains:
+      friendlyName: 'Mountains'
+      description: '&fHow do &7mountains&f work in Skyblock?'
+      icon: 'stone'
+      islandLevel: 0
+      cost: 50
+    forest:
+      friendlyName: 'Forest'
+      description: '&fHome to &atrees&f and other things.'
+      icon: 'oak_sapling'
+      islandLevel: 0
+      cost: 50
+    taiga:
+      friendlyName: 'Taiga'
+      description: '&fIt &bsnows&f sometimes.'
+      icon: 'sweet_berries'
+      islandLevel: 0
+      cost: 50
+    swamp:
+      friendlyName: 'Swamp'
+      description: '&fNot in my &2swamp&f!'
+      icon: 'lily_pad'
+      islandLevel: 0
+      cost: 50
+    river:
+      friendlyName: 'River'
+      description: '&fThe&3 fishes&f send their regards.'
+      icon: 'cod'
+      islandLevel: 0
+      cost: 50
+    frozen_ocean:
+      friendlyName: 'Frozen Ocean'
+      description: '&fPerfect for &bskating&f!'
+      icon: 'ice'
+      islandLevel: 0
+      cost: 50
+    frozen_river:
+      friendlyName: 'Frozen River'
+      description: '&fProbably the same thing as &bFrozen Ocean&f.'
+      icon: 'ice'
+      islandLevel: 0
+      cost: 50
+    snowy_tundra:
+      friendlyName: 'Snowy Tundra'
+      description: '&bBrrr...'
+      icon: 'snow'
+      islandLevel: 0
+      cost: 50
+    snowy_mountains:
+      friendlyName: 'Snowy Mountains'
+      description: '&fMountains!&o ... but &b&osnowy&f&o! <3'
+      icon: 'snow_block'
+      islandLevel: 0
+      cost: 50
+    mushroom_fields:
+      friendlyName: 'Mushroom Fields'
+      description: '&fNo &5mobs&f here!'
+      icon: 'brown_mushroom'
+      islandLevel: 0
+      cost: 50
+    mushroom_field_shore:
+      friendlyName: 'Mushroom Field Shore'
+      description: '&fStill no &5mobs&f here!'
+      icon: 'red_mushroom'
+      islandLevel: 0
+      cost: 50
+    beach:
+      friendlyName: 'Beach'
+      description: '&fLet's all go to the &ebeach&f!'
+      icon: 'sand'
+      islandLevel: 0
+      cost: 50
+    desert_hills:
+      friendlyName: 'Desert Hills'
+      description: '&fWHO DARES &eDISTURB MY SLUMBER&f?!'
+      icon: 'sandstone_stairs'
+      islandLevel: 0
+      cost: 50
+    wooded_hills:
+      friendlyName: 'Wooded Hills'
+      description: ''
+      icon: 'oak_stairs'
+      islandLevel: 0
+      cost: 50
+    taiga_hills:
+      friendlyName: 'Taiga Hills'
+      description: ''
+      icon: 'spruce_stairs'
+      islandLevel: 0
+      cost: 50
+    mountain_edge:
+      friendlyName: 'Mountain Edge'
+      description: '&fOn the &7edge&f...'
+      icon: 'stone_brick_stairs'
+      islandLevel: 0
+      cost: 50
+    jungle:
+      friendlyName: 'Jungle'
+      description: '&fA &2temple&f lies deep within. &oJust kidding.'
+      icon: 'jungle_sapling'
+      islandLevel: 0
+      cost: 50
+    jungle_hills:
+      friendlyName: 'Jungle Hills'
+      description: '&fEverything you hated about the &2jungle&f and more.'
+      icon: 'jungle_stairs'
+      islandLevel: 0
+      cost: 50
+    jungle_edge:
+      friendlyName: 'Jungle Edge'
+      description: ''
+      icon: 'stripped_jungle_wood'
+      islandLevel: 0
+      cost: 50
+    deep_ocean:
+      friendlyName: 'Deep Ocean'
+      description: '&fThe &3ocean&f deeper than the void.'
+      icon: 'dark_prismarine'
+      islandLevel: 0
+      cost: 50
+    stone_shore:
+      friendlyName: 'Stone Shore'
+      description: '&fNot quite that &7beach getaway&f.'
+      icon: 'cobblestone'
+      islandLevel: 0
+      cost: 50
+    snowy_beach:
+      friendlyName: 'Snowy Beach'
+      description: '&fOk this is just &bridiculous&f.'
+      icon: 'snowball'
+      islandLevel: 0
+      cost: 50
+    birch_forest:
+      friendlyName: 'Birch Forest'
+      description: ''
+      icon: 'birch_sapling'
+      islandLevel: 0
+      cost: 50
+    birch_forest_hills:
+      friendlyName: 'Birch Forest Hills'
+      description: ''
+      icon: 'birch_stairs'
+      islandLevel: 0
+      cost: 50
+    dark_forest:
+      friendlyName: 'Dark Forest'
+      description: ''
+      icon: 'dark_oak_sapling'
+      islandLevel: 0
+      cost: 50
+    snowy_taiga:
+      friendlyName: 'Snowy Taiga'
+      description: ''
+      icon: 'spruce_sapling'
+      islandLevel: 0
+      cost: 50
+    snowy_taiga_hills:
+      friendlyName: 'Snowy Taiga Hills'
+      description: ''
+      icon: 'spruce_leaves'
+      islandLevel: 0
+      cost: 50
+    giant_tree_taiga:
+      friendlyName: 'Giant Tree Taiga'
+      description: ''
+      icon: 'mossy_cobblestone'
+      islandLevel: 0
+      cost: 50
+    giant_tree_taiga_hills:
+      friendlyName: 'Giant Tree Taiga Hills'
+      description: ''
+      icon: 'mossy_stone_bricks'
+      islandLevel: 0
+      cost: 50
+    wooded_mountains:
+      friendlyName: 'Wooded Mountains'
+      description: ''
+      icon: 'spruce_planks'
+      islandLevel: 0
+      cost: 50
+    savanna:
+      friendlyName: 'Savanna'
+      description: ''
+      icon: 'acacia_sapling'
+      islandLevel: 0
+      cost: 50
+    savanna_plateau:
+      friendlyName: 'Savanna Plateau'
+      description: ''
+      icon: 'acacia_slab'
+      islandLevel: 0
+      cost: 50
+    badlands:
+      friendlyName: 'Badlands'
+      description: ''
+      icon: 'red_sand'
+      islandLevel: 0
+      cost: 50
+    wooded_badlands_plateau:
+      friendlyName: 'Wooded Badlands Plateau'
+      description: ''
+      icon: 'acacia_leaves'
+      islandLevel: 0
+      cost: 50
+    badlands_plateau:
+      friendlyName: 'Badlands Plateau'
+      description: ''
+      icon: 'dead_bush'
+      islandLevel: 0
+      cost: 50
+    warm_ocean:
+      friendlyName: 'Warm Ocean'
+      description: ''
+      icon: 'fire_coral_fan'
+      islandLevel: 0
+      cost: 50
+    lukewarm_ocean:
+      friendlyName: 'Lukewarm Ocean'
+      description: ''
+      icon: 'tube_coral_fan'
+      islandLevel: 0
+      cost: 50
+    cold_ocean:
+      friendlyName: 'Cold Ocean'
+      description: ''
+      icon: 'bubble_coral_fan'
+      islandLevel: 0
+      cost: 50
+    deep_warm_ocean:
+      friendlyName: 'Deep Warm Ocean'
+      description: ''
+      icon: 'seagrass'
+      islandLevel: 0
+      cost: 50
+    deep_lukewarm_ocean:
+      friendlyName: 'Deep Lukewarm Ocean'
+      description: ''
+      icon: 'fire_coral_block'
+      islandLevel: 0
+      cost: 50
+    deep_cold_ocean:
+      friendlyName: 'Deep Cold Ocean'
+      description: ''
+      icon: 'tube_coral_block'
+      islandLevel: 0
+      cost: 50
+    deep_frozen_ocean:
+      friendlyName: 'Deep Frozen Ocean'
+      description: ''
+      icon: 'bubble_coral_block'
+      islandLevel: 0
+      cost: 50
+    sunflower_plains:
+      friendlyName: 'Sunflower Plains'
+      description: ''
+      icon: 'sunflower'
+      islandLevel: 0
+      cost: 50
+    desert_lakes:
+      friendlyName: 'Desert Lakes'
+      description: ''
+      icon: 'cod_bucket'
+      islandLevel: 0
+      cost: 50
+    gravelly_mountains:
+      friendlyName: 'Gravelly Mountains'
+      description: ''
+      icon: 'gravel'
+      islandLevel: 0
+      cost: 50
+    flower_forest:
+      friendlyName: 'Flower Forest'
+      description: ''
+      icon: 'peony'
+      islandLevel: 0
+      cost: 50
+    taiga_mountains:
+      friendlyName: 'Taiga Mountains'
+      description: ''
+      icon: 'granite'
+      islandLevel: 0
+      cost: 50
+    swamp_hills:
+      friendlyName: 'Swamp Hills'
+      description: ''
+      icon: 'oak_leaves'
+      islandLevel: 0
+      cost: 50
+    ice_spikes:
+      friendlyName: 'Ice Spikes'
+      description: ''
+      icon: 'packed_ice'
+      islandLevel: 0
+      cost: 50
+    modified_jungle:
+      friendlyName: 'Modified Jungle'
+      description: ''
+      icon: 'jungle_wood'
+      islandLevel: 0
+      cost: 50
+    modified_jungle_edge:
+      friendlyName: 'Modified Jungle Edge'
+      description: ''
+      icon: 'jungle_log'
+      islandLevel: 0
+      cost: 50
+    tall_birch_forest:
+      friendlyName: 'Tall Birch Forest'
+      description: ''
+      icon: 'birch_log'
+      islandLevel: 0
+      cost: 50
+    tall_birch_hills:
+      friendlyName: 'Tall Birch Hills'
+      description: ''
+      icon: 'stripped_birch_log'
+      islandLevel: 0
+      cost: 50
+    dark_forest_hills:
+      friendlyName: 'Dark Forest Hills'
+      description: ''
+      icon: 'dark_oak_stairs'
+      islandLevel: 0
+      cost: 50
+    snowy_taiga_mountains:
+      friendlyName: 'Snowy Taiga Mountains'
+      description: ''
+      icon: 'diorite'
+      islandLevel: 0
+      cost: 50
+    giant_spruce_taiga:
+      friendlyName: 'Giant Spruce Taiga'
+      description: ''
+      icon: 'spruce_log'
+      islandLevel: 0
+      cost: 50
+    giant_spruce_taiga_hills:
+      friendlyName: 'Giant Spruce Taiga Hills'
+      description: ''
+      icon: 'spruce_wood'
+      islandLevel: 0
+      cost: 50
+    modified_gravelly_mountains:
+      friendlyName: 'Gravelly Mountains+'
+      description: ''
+      icon: 'flint'
+      islandLevel: 0
+      cost: 50
+    shattered_savanna:
+      friendlyName: 'Shattered Savanna'
+      description: ''
+      icon: 'coarse_dirt'
+      islandLevel: 0
+      cost: 50
+    shattered_savanna_plateau:
+      friendlyName: 'Shattered Savanna Plateau'
+      description: ''
+      icon: 'grass'
+      islandLevel: 0
+      cost: 50
+    eroded_badlands:
+      friendlyName: 'Eroded Badlands'
+      description: ''
+      icon: 'white_terracotta'
+      islandLevel: 0
+      cost: 50

@@ -1,0 +1,64 @@
+OCEAN,Ocean,&fJust keep &bswimming&f...,water_bucket
+PLAINS,Plains,&aPlains&f… What did you expect?,grass_block
+DESERT,Desert,&eHot&f stuff.,cactus
+MOUNTAINS,Mountains,&fHow do &7mountains&f work in Skyblock?,stone
+FOREST,Forest,&fHome to &atrees&f and other things.,oak_sapling
+TAIGA,Taiga,&fIt &bsnows&f sometimes.,sweet_berries
+SWAMP,Swamp,&fNot in my &2swamp&f!,lily_pad
+RIVER,River,&fThe&3 fishes&f send their regards.,cod
+FROZEN_OCEAN,Frozen Ocean,&fPerfect for &bskating&f!,ice
+FROZEN_RIVER,Frozen River,&fProbably the same thing as &bFrozen Ocean&f.,ice
+SNOWY_TUNDRA,Snowy Tundra,&bBrrr...,snow
+SNOWY_MOUNTAINS,Snowy Mountains,&fMountains!&o ... but &b&osnowy&f&o! <3,snow_block
+MUSHROOM_FIELDS,Mushroom Fields,&fNo &5mobs&f here!,brown_mushroom
+MUSHROOM_FIELD_SHORE,Mushroom Field Shore,&fStill no &5mobs&f here!,red_mushroom
+BEACH,Beach,&fLet's all go to the &ebeach&f!,sand
+DESERT_HILLS,Desert Hills,&fWHO DARES &eDISTURB MY SLUMBER&f?!,sandstone_stairs
+WOODED_HILLS,Wooded Hills,,oak_stairs
+TAIGA_HILLS,Taiga Hills,,spruce_stairs
+MOUNTAIN_EDGE,Mountain Edge,&fOn the &7edge&f...,stone_brick_stairs
+JUNGLE,Jungle,&fA &2temple&f lies deep within. &oJust kidding.,jungle_sapling
+JUNGLE_HILLS,Jungle Hills,&fEverything you hated about the &2jungle&f and more.,jungle_stairs
+JUNGLE_EDGE,Jungle Edge,,stripped_jungle_wood
+DEEP_OCEAN,Deep Ocean,&fThe &3ocean&f deeper than the void.,dark_prismarine
+STONE_SHORE,Stone Shore,&fNot quite that &7beach getaway&f.,cobblestone
+SNOWY_BEACH,Snowy Beach,&fOk this is just &bridiculous&f.,snowball
+BIRCH_FOREST,Birch Forest,,birch_sapling
+BIRCH_FOREST_HILLS,Birch Forest Hills,,birch_stairs
+DARK_FOREST,Dark Forest,,dark_oak_sapling
+SNOWY_TAIGA,Snowy Taiga,,spruce_sapling
+SNOWY_TAIGA_HILLS,Snowy Taiga Hills,,spruce_leaves
+GIANT_TREE_TAIGA,Giant Tree Taiga,,mossy_cobblestone
+GIANT_TREE_TAIGA_HILLS,Giant Tree Taiga Hills,,mossy_stone_bricks
+WOODED_MOUNTAINS,Wooded Mountains,,spruce_planks
+SAVANNA,Savanna,,acacia_sapling
+SAVANNA_PLATEAU,Savanna Plateau,,acacia_slab
+BADLANDS,Badlands,,red_sand
+WOODED_BADLANDS_PLATEAU,Wooded Badlands Plateau,,acacia_leaves
+BADLANDS_PLATEAU,Badlands Plateau,,dead_bush
+WARM_OCEAN,Warm Ocean,,fire_coral_fan
+LUKEWARM_OCEAN,Lukewarm Ocean,,tube_coral_fan
+COLD_OCEAN,Cold Ocean,,bubble_coral_fan
+DEEP_WARM_OCEAN,Deep Warm Ocean,,seagrass
+DEEP_LUKEWARM_OCEAN,Deep Lukewarm Ocean,,fire_coral_block
+DEEP_COLD_OCEAN,Deep Cold Ocean,,tube_coral_block
+DEEP_FROZEN_OCEAN,Deep Frozen Ocean,,bubble_coral_block
+SUNFLOWER_PLAINS,Sunflower Plains,,sunflower
+DESERT_LAKES,Desert Lakes,,cod_bucket
+GRAVELLY_MOUNTAINS,Gravelly Mountains,,gravel
+FLOWER_FOREST,Flower Forest,,peony
+TAIGA_MOUNTAINS,Taiga Mountains,,granite
+SWAMP_HILLS,Swamp Hills,,oak_leaves
+ICE_SPIKES,Ice Spikes,,packed_ice
+MODIFIED_JUNGLE,Modified Jungle,,jungle_wood
+MODIFIED_JUNGLE_EDGE,Modified Jungle Edge,,jungle_log
+TALL_BIRCH_FOREST,Tall Birch Forest,,birch_log
+TALL_BIRCH_HILLS,Tall Birch Hills,,stripped_birch_log
+DARK_FOREST_HILLS,Dark Forest Hills,,dark_oak_stairs
+SNOWY_TAIGA_MOUNTAINS,Snowy Taiga Mountains,,diorite
+GIANT_SPRUCE_TAIGA,Giant Spruce Taiga,,spruce_log
+GIANT_SPRUCE_TAIGA_HILLS,Giant Spruce Taiga Hills,,spruce_wood
+MODIFIED_GRAVELLY_MOUNTAINS,Gravelly Mountains+,,flint
+SHATTERED_SAVANNA,Shattered Savanna,,coarse_dirt
+SHATTERED_SAVANNA_PLATEAU,Shattered Savanna Plateau,,grass
+ERODED_BADLANDS,Eroded Badlands,,white_terracotta
